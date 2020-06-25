@@ -1,1 +1,1 @@
-Recycler view with sticky header using kotlin and androidx
+Sleep Tracking app using recycler view and data binding
